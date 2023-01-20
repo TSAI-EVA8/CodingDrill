@@ -3,7 +3,7 @@ As per the assignmnet there are 3 incrementa steps that have been taken to reach
 
 
 ## Solution 1
-[CodingDrill_S1.ipynb](https://github.com/TSAI-EVA8/S4/blob/master/FormulaDerivations.ipynb)
+[CodingDrill_S1.ipynb](https://github.com/TSAI-EVA8/CodingDrill/blob/master/code/CodingDrill_S1.ipynb)
 
 ### Target
 
@@ -25,7 +25,7 @@ As per the assignmnet there are 3 incrementa steps that have been taken to reach
 
 
 ## Solution2
-[CodingDrill_S2.ipynb](https://github.com/TSAI-EVA8/S4/blob/master/FormulaDerivations.ipynb)
+[CodingDrill_S2.ipynb](https://github.com/TSAI-EVA8/CodingDrill/blob/master/code/CodingDrill_S2.ipynb)
 
 
 ### Target
@@ -46,7 +46,7 @@ As per the assignmnet there are 3 incrementa steps that have been taken to reach
 
 
 ## Solution3
-[CodingDrill_S3.ipynb](https://github.com/TSAI-EVA8/S4/blob/master/FormulaDerivations.ipynb)
+[CodingDrill_S3.ipynb](https://github.com/TSAI-EVA8/CodingDrill/blob/master/code/CodingDrill_S3.ipynb)
 
 ### Target
 
